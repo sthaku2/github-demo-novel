@@ -1,3 +1,8 @@
+==========
+Charecters
+==========
+
+
 In this video, we'll cover the Gett Ad Command, which is the first of two commands that we'll 
 to make a commit, and as we previously talked about in the last video, we use two commands because
 
