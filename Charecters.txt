@@ -1,0 +1,23 @@
+In this video, we'll cover the Gett Ad Command, which is the first of two commands that we'll 
+to make a commit, and as we previously talked about in the last video, we use two commands because
+
+that allows us to separate out particular changes we've made.
+We can I think I use the imagery of tweezers so we can tease them out and select them before we make
+
+a commit so we can group things together.
+And this get add command is what enables that to happen.
+So once we've done some work, we've actually made changes.
+We then call those changes out using the git add command to stage them for a commit and then we can
+make a commit.
+And in this video we're focusing on the first piece.
+And before we can do anything with GID, we need to make some changes.
+We need to do that first part work on stuff.
+So I'm going to do a quick demo.
+I made this folder, my first novel.
+
+I'm pretending I'm writing a novel.
+We have a git repository in here as we did initialize it earlier.
+So I'm now pretending to sit down day one of writing my novel and I'm going to do some work.
+And if I was actually writing a novel, I would probably start by making an outline.
+That's just how I like to work.
+I outline all my courses, so I just made a new file, their
